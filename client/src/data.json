@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"image": "/assets/images/AJ.png",
+		"clicked": false
+	},
+	{
+		"id": 2,
+		"image": "/assets/images/Cartman.png",
+		"clicked": false
+	},
+	{
+		"id": 3,
+		"image": "/assets/images/Chester.png",
+		"clicked": false
+	},
+	{
+		"id": 4,
+		"image": "/assets/images/Cosmo.png",
+		"clicked": false
+	},
+	{
+		"id": 5,
+		"image": "/assets/images/Kenny.png",
+		"clicked": false
+	},
+	{
+		"id": 6,
+		"image": "/assets/images/Kyle.png",
+		"clicked": false
+	},
+	{
+		"id": 7,
+		"image": "/assets/images/Mr.Krabs.png",
+		"clicked": false
+	},
+	{
+		"id": 8,
+		"image": "/assets/images/Patrick.png",
+		"clicked": false
+	},
+	{
+		"id": 9,
+		"image": "/assets/images/Spongebob.png",
+		"clicked": false
+	},
+	{
+		"id": 10,
+		"image": "/assets/images/Stan.png",
+		"clicked": false
+	},
+	{
+		"id": 11,
+		"image": "/assets/images/Timmy.png",
+		"clicked": false
+	},
+	{
+		"id": 12,
+		"image": "/assets/images/Trixie.png",
+		"clicked": false
+	},
+	{
+		"id": 13,
+		"image": "/assets/images/Vickey.png",
+		"clicked": false
+	},
+	{
+		"id": 14,
+		"image": "/assets/images/Wanda.png",
+		"clicked": false
+	}
+]

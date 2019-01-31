@@ -1,0 +1,43 @@
+.click-item {
+	background-size: cover;
+	background-position: center;
+	height: 170px;
+	width: 170px;
+	margin: 8px 25px;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+.click-item:hover {
+	transform: scale(1.05);
+	transition: 0.1s;
+}
+
+.shake {
+	animation: shake .5s 0.0125s;
+}
+
+@keyframes shake {
+	from,
+	to {
+		transform: translate3d(0, 0, 0);
+	}
+
+	25%,
+	50%,
+	75% {
+		transform: translate(10px);
+	}
+}
+
+@media (max-width: 750px) {
+	.click-item {
+		margin: 10px;
+	}
+}
+
+@media (max-width: 500px) {
+	.click-item {
+		margin: 10px;
+	}
+}
